@@ -1,4 +1,4 @@
-# EBS-SCA-code
+# EBS-SCA --An Enhanced Brain Storm Sine Cosine Algorithm
 
 The conventional sine cosine algorithm (SCA) does not appropriately balance exploration and exploitation, causing premature convergence, especially for complex optimization problems, such as the complex shifted or shifted rotated problems. To address this issue, this paper proposes an enhanced brain storm SCA (EBSSCA), where an enhanced brain storm (EBS) strategy is employed to improve the population diversity, and by combining it with two different update equations, two new individual update strategies (IUS: IUS-I and IUS-II) are developed to make effective balance between exploration and exploitation during the entire iterative search process. Double sets of benchmark suites involving 46 popular functions and two real-world problems are employed to compare EBS-SCA with other metaheuristic algorithms. Experimental results validate that the proposed EBS-SCA achieves the best overall performance including the global search ability, convergence speed, and scalability.
 %%% EBS-SCA --An Enhanced Brain Storm Sine Cosine Algorithm for Global Optimization Problems
