@@ -10,7 +10,7 @@ The conventional sine cosine algorithm (SCA) does not appropriately balance expl
 % origin of the code is cited. The software is provided "as is" and without 
 % any warranties, express or implied.
 
-This package contains three parts:
+# This package contains three parts:
 
 1.CEC 2013 benchmark functions: 
 
@@ -40,7 +40,7 @@ This package contains three parts:
 	 
 	 ub = 100                           Upper bound of a problem.
 
-Note, operating environment configuration requires:
+# Note, operating environment configuration requires:
 
 	MatlabR2015a or a newer version;
 	
