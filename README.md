@@ -26,13 +26,19 @@ This package contains three parts:
 
 3. TEST.m is an example test code with EBS-SCA algorithm:
 
-	 max_iteration = 60000              Maximum number of iterations
-	 max_FES = 300000                   Maximum number of fitness evaluations
-	 N = 50                             Population size
-	 D = 30                             Dimension
-	 M = 10                             Number of clusters
-	 lb = -100                          Lower bound of a problem
-	 ub = 100                           Upper bound of a problem
+	 max_iteration = 60000              Maximum number of iterations.
+	 
+	 max_FES = 300000                   Maximum number of fitness evaluations.
+	 
+	 N = 50                             Population size.
+	 
+	 D = 30                             Dimension.
+	 
+	 M = 10                             Number of clusters.
+	 
+	 lb = -100                          Lower bound of a problem.
+	 
+	 ub = 100                           Upper bound of a problem.
 
 Note, operating environment configuration requires:
 
